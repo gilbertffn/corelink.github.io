@@ -189,9 +189,9 @@ article p {
 }
 
 article img {
-    width: 80%;
+    width: 100%;
     margin-top: 20px;
-    height: 350px;
+    height: 500px;
 }
 
 article ul {
